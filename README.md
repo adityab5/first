@@ -3,6 +3,7 @@ print'''
 -  Substraction
 *  Multiply
 /  Divide
+'''
 
 num1=(int(input(Enter the Value1:-))
 opr=input("Enter the operator(+,-,*,/):-")
